@@ -3,4 +3,4 @@
 
 https://github.com/AboutJoke/ZxingDemo/blob/master/app/demo.apk
 
-博客地址：
+博客地址：http://blog.csdn.net/u013200308/article/details/68067564
